@@ -46,16 +46,12 @@ export default function NHSServiceForm() {
   const GOOGLE_SCRIPT_URL = process.env.NEXT_PUBLIC_GOOGLE_SCRIPT_URL as string;
 
   const opportunityOptions = [
-    "Community Service",
-    "Tutoring/Mentoring",
-    "Environmental Cleanup",
-    "Food Bank/Soup Kitchen",
-    "Hospital/Healthcare Volunteering",
-    "Library Assistance",
-    "Senior Center Activities",
-    "School Event Support",
-    "Charity Fundraising",
-    "Other (specify in description)",
+    "External",
+    "Girl Up",
+    "Hygene Drive",
+    "Elkins Garage Car Wash",
+    "Holiday Toy Drive",
+    "NZone Sports",
   ];
 
   const getSvgFromPad = (
