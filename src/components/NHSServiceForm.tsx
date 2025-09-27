@@ -52,6 +52,7 @@ export default function NHSServiceForm() {
     "Elkins Garage Car Wash",
     "Holiday Toy Drive",
     "NZone Sports",
+    "DECA Hygiene Drive"
   ];
 
   const getSvgFromPad = (
