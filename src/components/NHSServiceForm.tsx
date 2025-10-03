@@ -52,7 +52,12 @@ export default function NHSServiceForm() {
     "Elkins Garage Car Wash",
     "Holiday Toy Drive",
     "NZone Sports",
-    "DECA Hygiene Drive"
+    "DECA Hygiene Drive",
+    "FRI Food Drive",
+    "Science National Honor Society Toy Drive",
+    "Girl Up Donation Drive",
+    "Elkins Garage Car Wash",
+    "Rho Kappa Food Drive"
   ];
 
   const getSvgFromPad = (
