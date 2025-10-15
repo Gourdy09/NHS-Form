@@ -52,13 +52,11 @@ export default function NHSServiceForm() {
     "NZone Sports",
     "FRI Food Drive",
     "Science National Honor Society Toy Drive",
-    "Girl Up Donation Drive",
     "Rho Kappa Food Drive",
     "Key Club Sanitizer + Tissue Drive",
     "UNICEF Hygiene Drive",
     "DECA Candy Drive",
     "Keeping Elkins Clean Service Drive",
-    
   ];
 
   const getSvgFromPad = (
