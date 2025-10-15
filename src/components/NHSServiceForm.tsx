@@ -48,15 +48,17 @@ export default function NHSServiceForm() {
   const opportunityOptions = [
     "External",
     "Girl Up",
-    "Elkins Garage Car Wash",
     "Holiday Toy Drive",
     "NZone Sports",
     "FRI Food Drive",
     "Science National Honor Society Toy Drive",
     "Girl Up Donation Drive",
-    "Elkins Garage Car Wash",
     "Rho Kappa Food Drive",
     "Key Club Sanitizer + Tissue Drive",
+    "UNICEF Hygiene Drive",
+    "DECA Candy Drive",
+    "Keeping Elkins Clean Service Drive",
+    
   ];
 
   const getSvgFromPad = (
